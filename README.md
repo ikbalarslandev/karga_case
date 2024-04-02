@@ -29,9 +29,10 @@ Task manager app , similar to trello
 
 ### To Do:
 
-- [] Login/Register Pages.
-- [] Check All the Api Points
-- [] Dashboard ui with example data ( all tasks Get , task Create)
-- [] Drag and Drop functionality
-- [] Modal for Task Details ( task Put , Task Delete)
-- [] Filter Dashboard
+- [ ] Login/Register Pages.
+- [ ] Check All the Api Points
+- [ ] Dashboard ui with example data ( all tasks Get , task Create)
+- [ ] Drag and Drop functionality
+- [ ] Modal for Task Details ( task Put , Task Delete)
+- [ ] Filter Dashboard
+ 
